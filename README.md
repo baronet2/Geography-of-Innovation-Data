@@ -1,4 +1,4 @@
-# Geography-of-Innovation-Data
+# Geography of Innovation Data
 
 This repository includes tools which can be used to obtain data related to the geography of innovation.
 
