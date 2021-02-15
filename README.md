@@ -17,7 +17,7 @@ This repository currently includes tools for the following data sources:
 
 ## Contributing
 
-If you would like to contribute to the code (such as by adding an additional tool), please feel free to open a pull request. Feel free to open an issue to request features or discuss the tool.
+If you would like to contribute to the code (such as by adding an additional tool), please feel free to open a pull request. Feel free to open an issue to request additional tools/features or open a discussion.
 
 ## License
 
