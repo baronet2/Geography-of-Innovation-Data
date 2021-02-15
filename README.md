@@ -8,9 +8,16 @@ The code provided can be used to scrape data from certain webpages.
 Instructions on using these are included in the code.
 You may need to install certain libraries using `pip` or `conda` for the Python files.
 
+## Tools Included
+
+This repository currently includes tools for the following data sources:
+
+- `TopUniversities_Scraper.py`: topuniversities.com's QS World University Rankings, available at https://www.topuniversities.com/university-rankings/world-university-rankings/2020, and the various other university rankings (e.g. rankings by subject)  .
+- `WIPO_Scraper.py`: The World Intellectual Property Organization (WIPO)'s Statistical Country Profiles, such as https://www.wipo.int/ipstats/en/statistics/country_profile/profile.jsp?code=CA.  
+
 ## Contributing
 
-If you would like to contribute to the code, please feel free to open a pull request. Feel free to open an issue to request features or discuss the tool.
+If you would like to contribute to the code (such as by adding an additional tool), please feel free to open a pull request. Feel free to open an issue to request features or discuss the tool.
 
 ## License
 
