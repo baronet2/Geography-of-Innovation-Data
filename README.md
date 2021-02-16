@@ -7,6 +7,7 @@ This repository includes tools which can be used to obtain data related to the g
 The code provided can be used to scrape data from certain webpages.
 Instructions on using these are included in the code.
 You may need to install certain libraries using `pip` or `conda` for the Python files.
+Note that the scripts are intended for use with Python 3.7, so minor changes may be required for other versions.
 
 ## Tools Included
 
