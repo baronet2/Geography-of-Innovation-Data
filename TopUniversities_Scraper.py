@@ -68,4 +68,4 @@ for i in range(num_pages):
 
 # Close web driver and save data to file
 driver.close()
-df.to_csv(filename) # Exports table to CSV file (which can be opened in Excel)
+df.to_csv(filename, encoding='utf-8') # Exports table to CSV file (which can be opened in Excel)
